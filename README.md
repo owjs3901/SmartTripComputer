@@ -7,10 +7,10 @@
 
 # 개발
 >- 라떼판다 보드
-- 터치패널
-- Windows 10
-- Camera
-- C# .net FrameWork
+>- 터치패널
+>- Windows 10
+>- Camera
+>- C# .net FrameWork
 
 # 기능
 라떼판다에 연결된 Camera가 차 내부의 사람을 인식합니다.
