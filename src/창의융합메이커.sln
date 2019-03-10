@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "창의융합메이커", "창의융합메이커\창의융합메이커.csproj", "{45EBC051-82EC-4D20-BDFA-1036FACB65BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EBC051-82EC-4D20-BDFA-1036FACB65BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EBC051-82EC-4D20-BDFA-1036FACB65BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EBC051-82EC-4D20-BDFA-1036FACB65BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EBC051-82EC-4D20-BDFA-1036FACB65BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {722B2C5B-1EF5-42C7-A9AE-714010019740}
+	EndGlobalSection
+EndGlobal
